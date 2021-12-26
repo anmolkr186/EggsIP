@@ -1,0 +1,327 @@
+@font-face {
+    font-family: 'Anybody Expanded';
+    src: url('../fonts/Anybody-ExpandedExtraBold.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody Expanded';
+    src: url('../fonts/Anybody-ExpandedMedium.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody Expanded';
+    src: url('../fonts/Anybody-ExpandedBlackItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedBlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody Expanded';
+    src: url('../fonts/Anybody-ExpandedExtraLight.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody Expanded';
+    src: url('../fonts/Anybody-ExpandedBlack.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody Expanded';
+    src: url('../fonts/Anybody-ExpandedExtraBoldItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody Expanded';
+    src: url('../fonts/Anybody-ExpandedItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody SemiExpanded';
+    src: url('../fonts/Anybody-ExpandedBold.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody Expanded';
+    src: url('../fonts/Anybody-ExpandedExtraLightItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody Expanded';
+    src: url('../fonts/Anybody-ExpandedLightItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody Expanded';
+    src: url('../fonts/Anybody-ExpandedBoldItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody Expanded';
+    src: url('../fonts/Anybody-ExpandedLight.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody Expanded';
+    src: url('../fonts/Anybody-ExpandedMediumItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedMediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody Expanded';
+    src: url('../fonts/Anybody-ExpandedSemiBoldItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedSemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody Expanded';
+    src: url('../fonts/Anybody-ExpandedRegular.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody Expanded';
+    src: url('../fonts/Anybody-ExpandedThinItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody Expanded';
+    src: url('../fonts/Anybody-ExpandedSemiBold.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedSemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody Expanded';
+    src: url('../fonts/Anybody-ExpandedThin.woff2') format('woff2'),
+        url('../fonts/Anybody-ExpandedThin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedBlack.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedBlackItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedBlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedBoldItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedBold.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedExtraBold.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedSemiBold.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedSemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedLightItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedLight.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedSemiBoldItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedSemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedThinItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedRegular.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedThin.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedThin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedMedium.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedExtraLight.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedExtraBoldItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedMediumItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedMediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody ExtraExpanded';
+    src: url('../fonts/Anybody-ExtraExpandedExtraLightItalic.woff2') format('woff2'),
+        url('../fonts/Anybody-ExtraExpandedExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+

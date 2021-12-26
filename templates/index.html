@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EggsIP</title>
+    <link rel="icon" href="static/images/egg.svg" type="image/x-icon">
+
+    <!-- <link rel="stylesheet" type="text/css" href="static/css/fontface.css"> -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
+    <!-- <link rel="stylesheet" type="text/css" href="glider.css"> -->
+    <!-- <script src="glider.js"></script> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
+
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/countup.js/1.8.2/countUp.min.js'></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+
+</head>
+
+<body class="index-body">
+
+    <div class="container">
+        <div></div>
+        <!-- navigation -->
+        <nav class="navcontainer">
+            <a href="#"><img class="header-logo" src="static/images/eggs-light.svg"></a>
+
+            <div class="burger">
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+            </div>
+        </nav>
+
+        <!-- hero-box -->
+        <div class="hero-box">
+
+            <!-- <p class="hero-heading hero-heading-small">Get you innovation</p> -->
+            <p class="hero-heading">fund the biggest innovations on<span class="hero-blockchain"><br>blockchain</span></p>
+            <p class="hero-intro">An easy and convenient way to get your interest aligned with the most innovative projects in the world. Introducing a form of innovative economy -  Get Intellectual property rights in your projects of interest in exchange of $EGGS token.</p>
+             
+            <div class="user-form">
+                <form action="" method="POST">
+                    <h2 style="text-align: center;">Invest in research today.</h2>
+                    <select name="project-name" id="project-name" required>
+                        <option value="" disabled selected>Select a project to invest in</option>
+                        <option value="project-1">Project 1</option>
+                        <option value="project-2">Project 2</option>
+                        <option value="project-3">Project 3</option>
+                        <option value="project-4">Project 4</option>
+                    </select>
+    
+                    <input name="egg-amount" id="egg-amount" placeholder="Enter number of EGGS token to invest" type="number" required min=1>
+                    <p style="color: #050369;">Current Eggs Token rate: 0.0001 Ether</p>
+                    
+    
+                    <!-- <div class="g-recaptcha" data-sitekey="{{recaptcha_key}}"></div> -->
+    
+                </form>
+            </div>
+
+            <button class="hero-button" id="buy-token" onclick="buyTokens()">continue</button>
+
+    
+
+            <!-- <a href="#details">
+                <button class="hero-button">Learn More</button>
+            </a> -->
+
+            <img src="static/images/hand.png">
+
+            
+
+
+        </div>
+    </div>
+
+    <!-- remaining code goes here -->
+
+    <script type="text/javascript", src = "static/js/truffle-contract.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/web3/1.7.0-rc.0/web3.min.js"></script>
+    <script src="static/js/app.js"></script>
+
+</body>
+
+</html>

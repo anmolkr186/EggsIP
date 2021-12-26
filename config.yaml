@@ -1,0 +1,13 @@
+
+recaptcha:
+  key : "6Lduy2saAAAAAGKElqPbIIHuR8ypDIeThN5F4Vzb"
+  secret: "6Lduy2saAAAAAOO9wH2P_uelFjYyEVj071lIClnK"
+
+mail_account:
+  email: ""
+  pass: ''
+
+mongodb:
+  username: ""
+  password: ""
+  url: ''
