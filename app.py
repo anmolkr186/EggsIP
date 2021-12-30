@@ -8,17 +8,7 @@ from datetime import datetime
 import pytz
 
 
-config = None
-with open(r'config.yaml') as file:
-    config = yaml.load(file, Loader=yaml.FullLoader)
-    # print(config)
-
-
 app = Flask(__name__)
-
-#recaptcha keys
-recaptcha_key = config['recaptcha']['key']
-recaptcha_secret = config['recaptcha']['secret']
 
 @app.route('/', methods=['GET','POST'])
 def index():
