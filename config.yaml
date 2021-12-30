@@ -1,7 +1,7 @@
 
 recaptcha:
-  key : "6Lduy2saAAAAAGKElqPbIIHuR8ypDIeThN5F4Vzb"
-  secret: "6Lduy2saAAAAAOO9wH2P_uelFjYyEVj071lIClnK"
+  key : ""
+  secret: ""
 
 mail_account:
   email: ""
