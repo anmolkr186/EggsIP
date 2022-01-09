@@ -1,6 +1,8 @@
 # EggsIP
 EggsIP is a decentralised application (DApp) built on top of Etheruem Network which aims to give governance of lesser-known research projects by tokenizing Intellectual Property (IP) of these projects in the form of $EGGS token.
 
+Checkout the project on: https://eggsip-deployed.herokuapp.com/
+
 ## Abstract Idea
 In the last decade, we have seen an exponential growth in science, research and development in the field of energy, space, biosciences, manufacturing, etc. Research funding has always been a hurdle for many research groups and labs to develop them into viable outcomes. On the other hand, the stakeholders who want to promote and fund these research groups don’t have enough resources and say in these activities either. By converting these interested groups of stakeholders into DAO, they can rely on a democratized and decentralized way of governance and funding and can directly promote the research by owning a stake in the intellectual property in the form of tokens.
 
