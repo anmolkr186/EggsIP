@@ -1,9 +1,8 @@
 # EggsIP
 EggsIP is a decentralised application (DApp) built on top of Etheruem Network which aims to give governance of lesser-known research projects by tokenizing Intellectual Property (IP) of these projects in the form of $EGGS token.
 
-# Abstract Idea
-
+## Abstract Idea
 In the last decade, we have seen an exponential growth in science, research and development in the field of energy, space, biosciences, manufacturing, etc. Research funding has always been a hurdle for many research groups and labs to develop them into viable outcomes. On the other hand, the stakeholders who want to promote and fund these research groups don’t have enough resources and say in these activities either. By converting these interested groups of stakeholders into DAO, they can rely on a democratized and decentralized way of governance and funding and can directly promote the research by owning a stake in the intellectual property in the form of tokens.
 
-# About the Project
+## About the Project
 Our primary objective is to enable the features like decentralization, trust and transparency into research labs which are working to solve niche problems in the world. Interested entities who directly impact from these researches can contribute and have a say in the funding, liquidity and valuation through special Intellectual Property (IP) tokens. This would directly eliminate the need for a patent or raise for these early-age research groups. We will be using the Ethereum Network to enable this project with the functionality of Smart Contracts. Anyone who finds a research of particular interest or value can have a particular stake in organizational governance through the above mentioned IP tokens. As a research group finds success, the value of these tokens will be proportionately determined resulting in benefits both as a research outcome and token value. Through this entire project, we will be learning about Solidity Programming, read related literature, learn about how DAOs function and implement the entire code. Eventually we will be deploying a DAPP with a user-friendly experience for the frontend-facing user.
